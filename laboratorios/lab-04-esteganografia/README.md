@@ -28,4 +28,4 @@
 Implementar inspección de entropía, recodificación/sanitización automática de imágenes subidas por usuarios en portales corporativos (re-encoding elimina payloads de Steghide) y políticas DLP frente a exfiltración esteganográfica.
 
 ## Resultado
-Prueba P03 completada con 100% de integridad forense verificada. Se documenta además el riesgo de canales encubiertos de exfiltración en imágenes (Hallazgo H-03, Severidad Media).
+Prueba P04 completada con 100% de integridad forense verificada. Se documenta además el riesgo de canales encubiertos de exfiltración en imágenes (Hallazgo H-03, Severidad Media).

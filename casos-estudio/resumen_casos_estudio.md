@@ -1,4 +1,4 @@
-# Casos de Estudio Evaluados
+# Casos de Estudio Evaluados (FC-LAB-001 a FC-LAB-008)
 
 1. **Entorno Local Kali Linux (`127.0.0.1`)** — `FC-LAB-001`
 2. **Infraestructura DNS `nmap.org` / `scanme.nmap.org`** — `FC-LAB-002`
@@ -7,3 +7,4 @@
 5. **Escenarios de Ingeniería Social (Registro y Control / Soporte Jira Cloud)** — `FC-LAB-005`
 6. **Comparativa OSINT (`tesla.com`, `microsoft.com`, `santototunja.edu.co`)** — `FC-LAB-006`
 7. **Autenticación HTTP (`OWASP Juice Shop`, `Q10`, `PortSwigger`, `SAC USTA`)** — `FC-LAB-007`
+8. **Seguridad en IA y Modelos de Lenguaje (Prompt Injection directo/RAG — OWASP LLM 2025)** — `FC-LAB-008`

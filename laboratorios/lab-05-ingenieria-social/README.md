@@ -23,4 +23,4 @@ Identificación precisa de los disparadores psicológicos (Autoridad + Temor + U
 Capacitación periódica contra Phishing/Vishing, protocolo estricto de verificación por canal oficial independiente (nunca usar enlaces de correos urgentes ni dictar códigos OTP por teléfono) y adopción de MFA resistente a phishing (FIDO2/WebAuthn en lugar de SMS).
 
 ## Resultado
-Prueba P04 completada. Hallazgo H-04 (Severidad Alta): la combinación de autoridad, temor y urgencia sobre canales no verificados permite comprometer credenciales y códigos 2FA por SMS si no existen protocolos de verificación fuera de banda.
+Prueba P05 completada. Hallazgo H-04 (Severidad Alta): la combinación de autoridad, temor y urgencia sobre canales no verificados permite comprometer credenciales y códigos 2FA por SMS si no existen protocolos de verificación fuera de banda.

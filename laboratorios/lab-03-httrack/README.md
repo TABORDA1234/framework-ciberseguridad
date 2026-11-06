@@ -25,4 +25,4 @@ Sitio clonado operable localmente al 100% a nivel visual y clasificación verifi
 Mantener cero credenciales o API keys en archivos JS/HTML del cliente (delegar al backend mediante variables de entorno), proteger o excluir directorios de caché (`hts-cache` / `hts-log.txt`), bloquear acceso a `.env`/`.git` e implementar cabeceras CSP y `X-Content-Type-Options: nosniff`.
 
 ## Resultado
-Prueba P02 completada. Hallazgo H-02 (Severidad Baja / Informativa): la superficie visual y estática del front-end es 100% replicable por cualquier visitante, pero el sitio auditado no expone credenciales reales ni tokens en el código cliente.
+Prueba P03 completada. Hallazgo H-02 (Severidad Baja / Informativa): la superficie visual y estática del front-end es 100% replicable por cualquier visitante, pero el sitio auditado no expone credenciales reales ni tokens en el código cliente.

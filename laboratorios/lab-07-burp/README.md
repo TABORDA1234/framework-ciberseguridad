@@ -33,4 +33,4 @@ Documentación comparativa completa de los 4 flujos de login (endpoint, método,
 3. Corregir en SAC USTA la cabecera `X-Frame-Options: ALLOWALL` por `DENY` o `SAMEORIGIN` (junto con `frame-ancestors 'self'`) para prevenir ataques de Clickjacking, y asegurar la validación estricta en servidor del token anti-automatización (`cf-turnstile-response`) en Q10.
 
 ## Resultado
-Pruebas P06 y P07 completadas. Se documentaron los hallazgos H-06 (Severidad Media: uso de `HTTP 200 OK` en fallos de autenticación y ofuscación débil Base64 en SAC/Q10 que dificulta el monitoreo en SIEM/WAF) y H-07 (Severidad Media: cabecera `X-Frame-Options: ALLOWALL` observada en la respuesta de SAC USTA).
+Prueba P07 completada. Se documentaron los hallazgos H-06 (Severidad Media: uso de `HTTP 200 OK` en fallos de autenticación y ofuscación débil Base64 en SAC/Q10 que dificulta el monitoreo en SIEM/WAF) y H-07 (Severidad Media: cabecera `X-Frame-Options: ALLOWALL` observada en la respuesta de SAC USTA).

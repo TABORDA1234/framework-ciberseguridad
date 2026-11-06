@@ -25,4 +25,4 @@ Estructura de directorios creada sin errores, interfaz de red documentada y coin
 Mantener deshabilitados los servicios de red innecesarios por defecto (hardening de superficie local), operar con cuenta sin privilegios root salvo requerimiento explícito (`sudo`) y preservar el historial de consola como bitácora de auditoría.
 
 ## Resultado
-Prueba P01-Base exitosa. Superficie de exposición local nula (0 puertos abiertos en loopback), entorno estandarizado y listo para los laboratorios subsecuentes.
+Prueba P01 exitosa. Superficie de exposición local nula (0 puertos abiertos en loopback), entorno estandarizado y listo para los laboratorios subsecuentes.

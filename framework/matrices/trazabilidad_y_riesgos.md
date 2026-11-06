@@ -1,4 +1,4 @@
-# Matriz de Casos de Prueba (CP-01 a CP-07) y Hallazgos (H-01 a H-07)
+# Matriz de Casos de Prueba (CP-01 a CP-08) y Hallazgos (H-01 a H-08)
 
 | Lab | Caso | Hallazgo | Severidad | Estado |
 | :--- | :--- | :--- | :--- | :--- |
@@ -9,3 +9,4 @@
 | FC-LAB-005 | CP-05 | H-04: Susceptibilidad humana a Phishing/Vishing | Alta | Verificado |
 | FC-LAB-006 | CP-06 | H-05: Baja redundancia DNS en `santototunja.edu.co` (2 NS) | Media | Verificado |
 | FC-LAB-007 | CP-07 | H-06/H-07: `HTTP 200` en fallo de login, Base64 y `ALLOWALL` | Media | Verificado |
+| FC-LAB-008 | CP-08 | H-08: Concatenación system/user en LLM y exceso de agencia | Alta | Verificado |
