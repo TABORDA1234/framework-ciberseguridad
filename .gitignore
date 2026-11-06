@@ -1,0 +1,9 @@
+# Reglas de Seguridad de Publicación (Sección 11.2)
+.env
+*.pem
+*.key
+hts-cache/
+hts-log.txt
+__pycache__/
+*.pyc
+.DS_Store
