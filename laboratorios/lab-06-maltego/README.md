@@ -27,4 +27,4 @@ Grafo completo por organización con trazabilidad de fecha/hora en `Detail View`
 Incrementar la redundancia de servidores DNS autoritativos en `santototunja.edu.co` (actualmente depende de solo 2 servidores propios `dns2` y `dns3`, lo que representa un riesgo de disponibilidad ante fallos o DDoS), auditar periódicamente los `include:` del registro SPF para evitar autorizaciones huérfanas y usar buzones de rol en SOA.
 
 ## Resultado
-Prueba P05 completada. Hallazgo H-05 (Severidad Media): baja redundancia DNS en `santototunja.edu.co` (solo 2 servidores NS propios frente a 10 distribuidos en UltraDNS/Akamai en Tesla) y exposición de relaciones con terceros en registros SPF públicos.
+Prueba P06 completada. Hallazgo H-05 (Severidad Media): baja redundancia DNS en `santototunja.edu.co` (solo 2 servidores NS propios frente a 10 distribuidos en UltraDNS/Akamai en Tesla) y exposición de relaciones con terceros en registros SPF públicos.

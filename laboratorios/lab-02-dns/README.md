@@ -25,4 +25,4 @@ Identificación completa de la arquitectura dual-stack, terceros proveedores (Li
 Implementar firmado de zona DNSSEC (generación de claves ZSK/KSK en Linode y publicación de registro DS en el TLD `.org`) para mitigar ataques de DNS Spoofing / Cache Poisoning; monitorear cambios en registros NS/MX.
 
 ## Resultado
-Prueba P01 completada. Se documentó el hallazgo H-01 (Severidad Media): la zona `nmap.org` carece de cadena de confianza DNSSEC (`DNSKEY=0`, `DS=0`, `DNSSEC: unsigned`), aunque el nivel raíz y el TLD `.org` sí están firmados.
+Prueba P02 completada. Se documentó el hallazgo H-01 (Severidad Media): la zona `nmap.org` carece de cadena de confianza DNSSEC (`DNSKEY=0`, `DS=0`, `DNSSEC: unsigned`), aunque el nivel raíz y el TLD `.org` sí están firmados.

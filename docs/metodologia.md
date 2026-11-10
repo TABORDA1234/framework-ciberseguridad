@@ -1,10 +1,10 @@
-# Dominios de Evaluación y Trazabilidad
+# Dominios de Evaluación y Trazabilidad (100% Cubiertos)
 
-- **D01 Entornos y sistemas**: `FC-LAB-001`
-- **D02 Reconocimiento y OSINT**: `FC-LAB-002`, `FC-LAB-006`
-- **D03 Seguridad web**: `FC-LAB-003`, `FC-LAB-007`
-- **D04 Comunicaciones y APIs**: `FC-LAB-007`
-- **D05 Factor humano**: `FC-LAB-005`
-- **D06 Forense digital**: `FC-LAB-004`
-- **D07 Detección y respuesta**: Transversal
-- **D08 Seguridad de IA**: Proyectado en `feature/lab-08`
+- **D01 Entornos y sistemas**: `FC-LAB-001` (Comandos Shell y Kali Linux)
+- **D02 Reconocimiento y OSINT**: `FC-LAB-002` (DNS Footprinting), `FC-LAB-006` (Maltego)
+- **D03 Seguridad web**: `FC-LAB-003` (HTTrack), `FC-LAB-007` (Burp Suite)
+- **D04 Comunicaciones y APIs**: `FC-LAB-007` (Burp Suite)
+- **D05 Factor humano**: `FC-LAB-005` (Ingeniería Social)
+- **D06 Forense digital**: `FC-LAB-004` (Esteganografía con Steghide y SHA-256)
+- **D07 Detección y respuesta**: Transversal (`FC-LAB-002`, `003`, `007`, `008`)
+- **D08 Seguridad de IA**: `FC-LAB-008` (Prompt Injection en LLMs — OWASP LLM 2025 & MITRE ATLAS)
